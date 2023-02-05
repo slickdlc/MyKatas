@@ -1,5 +1,6 @@
-package com.dojo.kata.kata02;
+package com.dojo.kata.kata02.iteracion1;
 
+import com.dojo.kata.kata02.iteracion1.Iteracion1;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;

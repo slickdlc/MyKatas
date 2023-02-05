@@ -1,4 +1,4 @@
-package com.dojo.kata.kata02;
+package com.dojo.kata.kata02.iteracion1;
 
 import java.util.Arrays;
 
